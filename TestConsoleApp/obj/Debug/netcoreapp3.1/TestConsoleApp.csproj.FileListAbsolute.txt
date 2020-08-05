@@ -1,0 +1,12 @@
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/bin/Debug/netcoreapp3.1/TestConsoleApp.deps.json
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/bin/Debug/netcoreapp3.1/TestConsoleApp.runtimeconfig.json
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/bin/Debug/netcoreapp3.1/TestConsoleApp.runtimeconfig.dev.json
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/bin/Debug/netcoreapp3.1/TestConsoleApp.dll
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/bin/Debug/netcoreapp3.1/TestConsoleApp.pdb
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/obj/Debug/netcoreapp3.1/TestConsoleApp.csprojAssemblyReference.cache
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/obj/Debug/netcoreapp3.1/TestConsoleApp.AssemblyInfoInputs.cache
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/obj/Debug/netcoreapp3.1/TestConsoleApp.AssemblyInfo.cs
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/obj/Debug/netcoreapp3.1/TestConsoleApp.csproj.CoreCompileInputs.cache
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/obj/Debug/netcoreapp3.1/TestConsoleApp.dll
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/obj/Debug/netcoreapp3.1/TestConsoleApp.pdb
+/Users/vip/Desktop/github projects/git-testing/git-command-testing/TestConsoleApp/obj/Debug/netcoreapp3.1/TestConsoleApp.genruntimeconfig.cache
