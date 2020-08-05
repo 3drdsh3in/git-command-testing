@@ -1,0 +1,11 @@
+# To Create & Run CSharp On VSCode there are two methods
+
+1. Install C# Extension from VSCode Extensions
+2. run "dotnet new console -o TestConsoleApp" in bash to create new C# .NET console project
+
+-- Running: Method #1--
+1. run "dotnet run --project TestConsoleApp" to compile and run the C# script
+
+-- Running: Method #2--
+1. run "cd TestConsoleApp" to reach the C# application's directory
+2. run "dotnet run" to run the console app.
